@@ -5,5 +5,4 @@ function myFunction(size,birth){
     
 
 }
-myFunction(41,1992);
-alert(myFunction);
+
